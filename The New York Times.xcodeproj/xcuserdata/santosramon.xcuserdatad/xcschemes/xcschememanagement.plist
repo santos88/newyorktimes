@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>The New York Times.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D7A132CA2B7D637B00370A56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D7A132DA2B7D637C00370A56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D7A132E42B7D637D00370A56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
